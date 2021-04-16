@@ -1,0 +1,91 @@
+,Designation,Age,Gender,Average Daily Working Hour,Decision Contribution,Spontaneous Participation,Task Satisfaction,Interaction Willingness,External Interaction,Informal Interaction,Personal Information Sharing,Effect On Personal Life,Appreciation From Teammates,Deadline Crossing Frequency,Overtime Frequency,Office Time Flexibility,Cheerfulness,Recreational Facilities,Hobby Time,Outdoor Activities Frequency,Family Time
+0,Student,24,Male,6,Often,Agree,Moderately satisfied,Rarely,Always,Never,Sometimes,Often,Neutral,Rarely,Often,Not Flexible,Neutral,Fair,Rarely,Rarely,Rarely
+1,Intern ,,Female,8,Sometimes,Agree,Very Satisfied,Always,Always,Often,Always,Rarely,Agree,Rarely,Often,Moderately Flexible,Agree,Good,Rarely,Sometimes,Sometimes
+2,Student,23,Male,6,Rarely,Agree,Slightly satisfied,Sometimes,Rarely,Sometimes,Never,Never,Agree,Rarely,Often,Quite Flexible,Disagree,Fair,Rarely,Never,Rarely
+3,Junior Software Engineer,24,Female,9,Sometimes,Strongly agree,Completely Satisfied,Always,Sometimes,Often,Often,Rarely,Strongly agree,Rarely,Sometimes,Sufficiently Flexible,Strongly Agree,Good,Often,Rarely,Sometimes
+4,Intern,23,Male,8,Rarely,Agree,Very Satisfied,Often,Always,Always,Always,Often,Agree,Sometimes,Sometimes,Sufficiently Flexible,Agree,Excellent,Often,Always,Always
+5,Software Engineer,26,Male,11,Always,Strongly agree,Completely Satisfied,Always,Always,Rarely,Rarely,Rarely,Strongly agree,Rarely,Sometimes,Very Flexible,Strongly Agree,Excellent,Always,Always,Sometimes
+6,Intern,22,Female,8,Sometimes,Agree,Very Satisfied,Always,Rarely,Rarely,Often,Rarely,Agree,Sometimes,Rarely,Sufficiently Flexible,Neutral,Fair,Sometimes,Sometimes,Often
+7,Intern,22,Male,2,Sometimes,Neutral,Moderately satisfied,Often,Rarely,Often,Always,Sometimes,Agree,Always,Often,Very Flexible,Neutral,Good,Often,Always,Always
+8,Software Engineer I,23,Female,8,Never,Agree,Moderately satisfied,Always,Often,Sometimes,Sometimes,Rarely,Strongly agree,Rarely,Sometimes,Sufficiently Flexible,Agree,Fair,Sometimes,Rarely,Often
+9,intern,24,Male,10,Rarely,Neutral,Moderately satisfied,Always,Often,Sometimes,Sometimes,Rarely,Neutral,Sometimes,Sometimes,Quite Flexible,Neutral,Poor,Rarely,Always,Sometimes
+10,Software engineer,24,Male,8,Never,Agree,Slightly satisfied,Often,Often,Sometimes,Never,Always,Agree,Sometimes,Often,Sufficiently Flexible,Agree,Excellent,Often,Rarely,Sometimes
+11,Intern,21,Female,9,Never,Agree,Very Satisfied,Often,Sometimes,Sometimes,Never,Never,Strongly agree,Rarely,Often,Quite Flexible,Neutral,Good,Rarely,Sometimes,Rarely
+12,Student ,23,Male,5,Rarely,Neutral,Moderately satisfied,Often,Sometimes,Rarely,Sometimes,Sometimes,Agree,Rarely,Rarely,Sufficiently Flexible,Agree,Fair,Rarely,Sometimes,Sometimes
+13,intern,24,Male,9,Never,Neutral,Not at all satisfied,Sometimes,Sometimes,Rarely,Rarely,Never,Agree,Sometimes,Sometimes,Quite Flexible,Disagree,Very poor,Rarely,Never,Rarely
+14,Intern ,23,Male,8,Rarely,Neutral,Not at all satisfied,Always,Often,Rarely,Sometimes,Rarely,Agree,Sometimes,Rarely,Not Flexible,Agree,Excellent,Often,Sometimes,Rarely
+15,Full Stack Engineer (Senior),26,Male,9,Often,Strongly agree,Very Satisfied,Often,Often,Always,Often,Rarely,Agree,Sometimes,Sometimes,Moderately Flexible,Agree,Good,Often,Often,Often
+16,Head of Engineering ,23,Male,9,Often,Agree,Very Satisfied,Often,Always,Sometimes,Sometimes,Always,Strongly disagree,Sometimes,Never,Moderately Flexible,Strongly Agree,Fair,Sometimes,Never,Sometimes
+17,Software engineer,26,Male,9,Never,Strongly disagree,Moderately satisfied,Often,Sometimes,Rarely,Rarely,Never,Neutral,Rarely,Often,Sufficiently Flexible,Neutral,Excellent,Sometimes,Always,Sometimes
+18,Senior Software Engineer,29,Male,8,Sometimes,Strongly agree,Slightly satisfied,Sometimes,Sometimes,Often,Sometimes,Sometimes,Agree,Rarely,Rarely,Sufficiently Flexible,Agree,Poor,Sometimes,Rarely,Always
+19,Student,22,Male,3,Rarely,Agree,Moderately satisfied,Sometimes,Sometimes,Often,Often,Sometimes,Strongly agree,Often,Always,Quite Flexible,Neutral,Fair,Often,Often,Often
+20,Currently Unemployed,22,Male,8,Rarely,Agree,Very Satisfied,Always,Sometimes,Rarely,Never,Never,Agree,Rarely,Sometimes,Quite Flexible,Strongly Disagree,Very poor,Rarely,Rarely,Rarely
+21,Jr. Software Engineer,25,Female,9,Sometimes,Strongly agree,Very Satisfied,Often,Always,Always,Often,Never,Strongly agree,Sometimes,Sometimes,Not Flexible,Neutral,Fair,Rarely,Never,Sometimes
+22,Studemt,22,Male,7,Often,Neutral,Moderately satisfied,Often,Sometimes,Sometimes,Sometimes,Never,Agree,Often,Sometimes,Very Flexible,Strongly Agree,Fair,Sometimes,Often,Often
+23,Associate Software Engineer,24,Male,8,Sometimes,Agree,Very Satisfied,Rarely,Never,Rarely,Rarely,Never,Strongly agree,Rarely,Rarely,Sufficiently Flexible,Neutral,Very poor,Often,Rarely,Often
+24,Software Engineer,28,Male,9,Sometimes,Agree,Moderately satisfied,Often,Rarely,Always,Often,Sometimes,Neutral,Often,Sometimes,Moderately Flexible,Agree,Good,Often,Often,Often
+25,Software Engineer,30,Male,9,Rarely,Strongly agree,Moderately satisfied,Often,Sometimes,Sometimes,Sometimes,Rarely,Agree,Rarely,Sometimes,Moderately Flexible,Neutral,Poor,Rarely,Sometimes,Rarely
+26,Junior Software Engineer,24,Male,9,Rarely,Strongly agree,Moderately satisfied,Always,Often,Sometimes,Sometimes,Sometimes,Agree,Rarely,Sometimes,Quite Flexible,Agree,Poor,Sometimes,Often,Often
+27,Associate Software Engineer,28,Male,8,Rarely,Agree,Moderately satisfied,Often,Never,Rarely,Sometimes,Never,Agree,Sometimes,Often,Very Flexible,Disagree,Very poor,Always,Sometimes,Often
+28,Intern,23,Male,8,Never,Agree,Very Satisfied,Always,Sometimes,Rarely,Rarely,Never,Neutral,Sometimes,Sometimes,Moderately Flexible,Disagree,Fair,Sometimes,Rarely,Rarely
+29,Software Engineer,24,Male,8,Rarely,Strongly agree,Completely Satisfied,Always,Often,Often,Sometimes,Never,Strongly agree,Rarely,Rarely,Sufficiently Flexible,Agree,Fair,Often,Often,Often
+30,Software Engineer,29,Male,8,Often,Strongly agree,Very Satisfied,Always,Often,Sometimes,Sometimes,Sometimes,Agree,Rarely,Sometimes,Sufficiently Flexible,Strongly Agree,Good,Sometimes,Often,Rarely
+31,Associate Software Quality Assurance Engineer,28,Male,10,Sometimes,Strongly agree,Completely Satisfied,Always,Often,Sometimes,Sometimes,Rarely,Agree,Rarely,Often,Moderately Flexible,Neutral,Fair,Sometimes,Always,Sometimes
+32,Intern,21,Male,8,Never,Agree,Moderately satisfied,Always,Sometimes,Rarely,Often,Sometimes,Agree,Rarely,Never,Sufficiently Flexible,Agree,Fair,Often,Sometimes,Often
+33,Senior Software Engineer,32,Male,8,Always,Strongly agree,Completely Satisfied,Always,Often,Often,Often,Sometimes,Strongly agree,Rarely,Sometimes,Sufficiently Flexible,Strongly Agree,Excellent,Always,Always,Always
+34,Software Engineer,25,Male,8,Sometimes,Agree,Moderately satisfied,Often,Rarely,Rarely,Sometimes,Rarely,Neutral,Rarely,Sometimes,Very Flexible,Neutral,Fair,Always,Always,Always
+35,Associate Software Engineer,23,Male,8,Never,Strongly agree,Very Satisfied,Sometimes,Sometimes,Sometimes,Never,Never,Strongly agree,Often,Often,Not Flexible,Strongly Agree,Excellent,Often,Always,Always
+36,Admin executive ,43,Male,10,Always,Strongly agree,Moderately satisfied,Always,Always,Sometimes,Sometimes,Sometimes,Strongly agree,Sometimes,Sometimes,Not Flexible,Strongly Agree,Excellent,Sometimes,Always,Always
+37,Software Engineer,24,Female,8,Rarely,Agree,Moderately satisfied,Often,Rarely,Sometimes,Sometimes,Rarely,Neutral,Rarely,Sometimes,Moderately Flexible,Disagree,Poor,Sometimes,Rarely,Sometimes
+38,Associate Software Engineer,26,Male,8,Sometimes,Strongly agree,Very Satisfied,Always,Always,Often,Sometimes,Rarely,Agree,Rarely,Often,Moderately Flexible,Strongly Agree,Excellent,Sometimes,Always,Often
+39,Software Engineer,25,Male,9,Sometimes,Strongly agree,Moderately satisfied,Often,Often,Sometimes,Rarely,Rarely,Strongly agree,Sometimes,Sometimes,Moderately Flexible,Agree,Good,Rarely,Sometimes,Rarely
+40,Software Engineer,25,Male,8,Often,Agree,Moderately satisfied,Always,Always,Sometimes,Rarely,Rarely,Agree,Rarely,Often,Not Flexible,Agree,Good,Sometimes,Rarely,Sometimes
+41,Tech Lead,31,Male,9,Sometimes,Agree,Moderately satisfied,Always,Sometimes,Rarely,Rarely,Never,Agree,Sometimes,Often,Moderately Flexible,Neutral,Fair,Rarely,Always,Often
+42,intern,22,Male,8,Rarely,Strongly agree,Slightly satisfied,Often,Sometimes,Rarely,Rarely,Never,Agree,Sometimes,Sometimes,Sufficiently Flexible,Agree,Poor,Often,Rarely,Always
+43,Intern,23,Female,9,Never,Neutral,Slightly satisfied,Rarely,Always,Sometimes,Never,Rarely,Strongly disagree,Rarely,Always,Quite Flexible,Neutral,Fair,Rarely,Never,Sometimes
+44,Software Engineer,24,Male,8,Rarely,Agree,Very Satisfied,Often,Rarely,Rarely,Rarely,Rarely,Neutral,Sometimes,Sometimes,Moderately Flexible,Neutral,Fair,Sometimes,Sometimes,Sometimes
+45,Lecturer,24,Male,7,Rarely,Strongly agree,Very Satisfied,Often,Rarely,Rarely,Rarely,Rarely,Strongly agree,Never,Rarely,Sufficiently Flexible,Agree,Excellent,Often,Sometimes,Often
+46,Unemployed ,23,Male,8,Sometimes,Strongly disagree,Slightly satisfied,Often,Always,Always,Sometimes,Rarely,Strongly agree,Often,Always,Sufficiently Flexible,Disagree,Fair,Often,Rarely,Rarely
+47,Full Stack Developer,24,Male,8,Sometimes,Strongly agree,Very Satisfied,Always,Often,Often,Rarely,Never,Strongly agree,Sometimes,Sometimes,Sufficiently Flexible,Strongly Agree,Good,Often,Rarely,Often
+48,Student,23,Male,8,Never,Agree,Completely Satisfied,Always,Often,Often,Always,Sometimes,Strongly agree,Sometimes,Often,Moderately Flexible,Agree,Good,Always,Rarely,Always
+49,Intern,23,Male,8,Never,Disagree,Completely Satisfied,Rarely,Rarely,Never,Never,Never,Agree,Never,Never,Sufficiently Flexible,Strongly Disagree,Good,Often,Never,Always
+50,student,23,Female,9,Rarely,Neutral,Slightly satisfied,Sometimes,Rarely,Rarely,Never,Never,Agree,Sometimes,Rarely,Quite Flexible,Disagree,Poor,Sometimes,Rarely,Sometimes
+51,Student,23,Male,3,Never,Neutral,Moderately satisfied,Often,Sometimes,Sometimes,Sometimes,Rarely,Agree,Sometimes,Rarely,Moderately Flexible,Agree,Good,Often,Rarely,Always
+52,Intern,24,Male,8,Often,Strongly agree,Very Satisfied,Often,Rarely,Rarely,Rarely,Sometimes,Agree,Sometimes,Often,Moderately Flexible,Neutral,Good,Sometimes,Rarely,Often
+53,Student,22,Male,8,Rarely,Agree,Slightly satisfied,Sometimes,Sometimes,Sometimes,Sometimes,Never,Agree,Sometimes,Sometimes,Quite Flexible,Neutral,Poor,Sometimes,Rarely,Always
+54,Intern,23,Female,8,Never,Agree,Completely Satisfied,Always,Often,Always,Sometimes,Never,Strongly agree,Never,Rarely,Very Flexible,Strongly Agree,Excellent,Always,Often,Often
+55,student ,24,Male,9,Sometimes,Agree,Slightly satisfied,Often,Often,Often,Sometimes,Sometimes,Agree,Sometimes,Often,Moderately Flexible,Neutral,Poor,Rarely,Never,Rarely
+56,Assistant Engineer ,24,Male,9,Sometimes,Strongly agree,Moderately satisfied,Often,Often,Often,Always,Always,Neutral,Never,Often,Not Flexible,Neutral,Poor,Never,Never,Rarely
+57,Student,22,Female,8,Often,Agree,Moderately satisfied,Always,Often,Often,Sometimes,Sometimes,Agree,Rarely,Sometimes,Not Flexible,Agree,Fair,Rarely,Sometimes,Sometimes
+58,Software engineer,26,Male,8,Sometimes,Strongly agree,Moderately satisfied,Always,Always,Sometimes,Sometimes,Never,Strongly agree,Never,Sometimes,Moderately Flexible,Agree,Excellent,Often,Sometimes,Often
+59,Intern,23,Male,6,Rarely,Agree,Very Satisfied,Often,Often,Often,Sometimes,Rarely,Agree,Sometimes,Sometimes,Moderately Flexible,Agree,Fair,Often,Sometimes,Sometimes
+60,Intern,24,Male,9,Often,Agree,Very Satisfied,Always,Sometimes,Often,Sometimes,Rarely,Agree,Sometimes,Sometimes,Sufficiently Flexible,Neutral,Good,Sometimes,Often,Often
+61,Student,24,Male,5,Never,Agree,Moderately satisfied,Sometimes,Rarely,Rarely,Rarely,Never,Agree,Sometimes,Sometimes,Sufficiently Flexible,Agree,Fair,Sometimes,Rarely,Always
+62,Data Analyst ,24,Male,7,Often,Agree,Moderately satisfied,Often,Always,Always,Often,Rarely,Agree,Rarely,Sometimes,Quite Flexible,Neutral,Poor,Sometimes,Rarely,Sometimes
+63,Associate Game Developer,22,Male,8,Sometimes,Strongly agree,Moderately satisfied,Always,Sometimes,Never,Never,Never,Agree,Often,Sometimes,Very Flexible,Strongly Agree,Excellent,Sometimes,Never,Never
+64,Software Engineer,24,Male,8,Often,Neutral,Moderately satisfied,Often,Sometimes,Sometimes,Sometimes,Sometimes,Neutral,Sometimes,Sometimes,Very Flexible,Neutral,Fair,Sometimes,Rarely,Often
+65,Junior Software Engineer,23,Male,10,Never,Agree,Very Satisfied,Often,Sometimes,Never,Rarely,Never,Agree,Rarely,Always,Not Flexible,Disagree,Very poor,Never,Never,Never
+66,Software developer,24,Male,9,Rarely,Agree,Slightly satisfied,Often,Sometimes,Never,Often,Rarely,Agree,Sometimes,Often,Moderately Flexible,Neutral,Good,Rarely,Sometimes,Rarely
+67,Software engineer ,24+,Male,8,Sometimes,Agree,Completely Satisfied,Often,Rarely,Rarely,Sometimes,Never,Strongly agree,Rarely,Sometimes,Sufficiently Flexible,Strongly Agree,Excellent,Always,Rarely,Always
+68,Junior full stack software developer,23,Male,5,Rarely,Strongly agree,Very Satisfied,Always,Often,Sometimes,Sometimes,Never,Agree,Rarely,Rarely,Very Flexible,Agree,Poor,Often,Sometimes,Often
+69,Junior Software Engineer ,25,Female,9,Sometimes,Neutral,Very Satisfied,Always,Sometimes,Rarely,Never,Never,Agree,Rarely,Always,Not Flexible,Neutral,Good,Sometimes,Rarely,Often
+70,Jr software engineer ,22,Female,9,Sometimes,Agree,Very Satisfied,Always,Sometimes,Often,Often,Sometimes,Strongly agree,Sometimes,Often,Quite Flexible,Neutral,Very poor,Often,Rarely,Often
+71,Associate Software Engineer,24,Male,8,Sometimes,Agree,Slightly satisfied,Always,Always,Always,Rarely,Never,Strongly agree,Rarely,Rarely,Quite Flexible,Agree,Excellent,Often,Always,Often
+72,Intern,22,Female,9,Never,Neutral,Slightly satisfied,Often,Rarely,Rarely,Sometimes,Sometimes,Agree,Often,Rarely,Not Flexible,Neutral,Very poor,Always,Never,Always
+73,Intern,23,Male,8,Sometimes,Strongly agree,Very Satisfied,Always,Rarely,Often,Often,Never,Agree,Rarely,Sometimes,Quite Flexible,Agree,Poor,Rarely,Rarely,Sometimes
+74,Student,23,Male,9,Rarely,Agree,Moderately satisfied,Often,Rarely,Rarely,Rarely,Never,Neutral,Rarely,Sometimes,Moderately Flexible,Neutral,Poor,Rarely,Rarely,Sometimes
+75,Senior Software Engineer ,27,Female,6,Sometimes,Strongly agree,Very Satisfied,Always,Always,Often,Often,Sometimes,Strongly agree,Sometimes,Sometimes,Very Flexible,Neutral,Poor,Sometimes,Often,Always
+76,Software Engineer,24,Male,8,Sometimes,Strongly agree,Very Satisfied,Often,Sometimes,Sometimes,Sometimes,Rarely,Agree,Rarely,Rarely,Quite Flexible,Agree,Fair,Often,Rarely,Always
+77,Senior Software Engineer,33,Male,9,Sometimes,Agree,Completely Satisfied,Always,Sometimes,Rarely,Never,Never,Agree,Sometimes,Often,Moderately Flexible,Agree,Poor,Sometimes,Rarely,Always
+78,Software Engineering ,26,Male,8,Never,Agree,Completely Satisfied,Always,Always,Often,Always,Never,Agree,Sometimes,Often,Very Flexible,Agree,Poor,Often,Often,Always
+79,student,23,Female,4,Rarely,Neutral,Moderately satisfied,Rarely,Rarely,Sometimes,Rarely,Never,Disagree,Always,Always,Moderately Flexible,Strongly Disagree,Fair,Sometimes,Rarely,Sometimes
+80,intern,24,Male,9,Sometimes,Agree,Very Satisfied,Always,Always,Never,Rarely,Never,Agree,Rarely,Sometimes,Quite Flexible,Neutral,Poor,Sometimes,Sometimes,Sometimes
+81,Junior software engineer,24,Male,6,Rarely,Agree,Slightly satisfied,Often,Sometimes,Sometimes,Rarely,Never,Agree,Sometimes,Rarely,Moderately Flexible,Neutral,Fair,Rarely,Rarely,Sometimes
+82,Student,23,Male,6,Sometimes,Agree,Very Satisfied,Always,Always,Often,Often,Rarely,Agree,Never,Rarely,Sufficiently Flexible,Agree,Good,Always,Often,Often
+83,Trainee Assistant Officer,27,Female,9,Often,Strongly agree,Very Satisfied,Always,Always,Always,Often,Sometimes,Agree,Never,Rarely,Sufficiently Flexible,Strongly Agree,Excellent,Often,Sometimes,Often
+84,Junior Software Engineer,23,Female,12,Rarely,Agree,Moderately satisfied,Always,Rarely,Rarely,Rarely,Rarely,Agree,Never,Sometimes,Quite Flexible,Disagree,Very poor,Never,Rarely,Rarely
+85,Associate Software Engineer,23,Male,7,Rarely,Agree,Very Satisfied,Always,Always,Always,Sometimes,Rarely,Agree,Sometimes,Sometimes,Quite Flexible,Agree,Fair,Sometimes,Always,Often
+86,Lecturer,26,Male,8,Sometimes,Agree,Moderately satisfied,Often,Often,Sometimes,Rarely,Never,Agree,Rarely,Sometimes,Sufficiently Flexible,Agree,Fair,Rarely,Rarely,Often
+87,Software Engineer,28,Male,9,Often,Strongly agree,Very Satisfied,Always,Sometimes,Sometimes,Sometimes,Rarely,Strongly agree,Often,Often,Sufficiently Flexible,Neutral,Poor,Sometimes,Sometimes,Often
+88,Student,24,Male,8,Never,Neutral,Slightly satisfied,Sometimes,Sometimes,Often,Rarely,Never,Disagree,Rarely,Always,Quite Flexible,Neutral,Fair,Sometimes,Sometimes,Sometimes
+89,Intern,23,Male,8,Never,Neutral,Slightly satisfied,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Neutral,Sometimes,Often,Quite Flexible,Strongly Disagree,Poor,Rarely,Sometimes,Sometimes
